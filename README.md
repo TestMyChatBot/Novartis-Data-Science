@@ -6,5 +6,5 @@ This is a case study which is asked in **Novartis Data Science Hiring challenge*
 For Problem Statment please go to link:
 https://www.hackerearth.com/challenges/hiring/novartis-data-science-hiring-challenge/problems
 
-Overview of problem is we have to make model which can identify patter of cyber attach so that cyber security somehow stop it before
+Overview of problem is we have to make model which can identify pattern of cyber attack so that cyber security somehow stop it before
 it actually happens. We have to predict the column "MALICIOUS_OFFENSE".
