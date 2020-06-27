@@ -1,4 +1,4 @@
-# Feature-Elimination
+# Novartis Data Science Hiring Challenge
 Predict if the server will be hacked
 
 This is a case study of **Novartis Data Science Hiring challenge** on **Hacker Earth** platform. My Score is 98.76 out of 100.
